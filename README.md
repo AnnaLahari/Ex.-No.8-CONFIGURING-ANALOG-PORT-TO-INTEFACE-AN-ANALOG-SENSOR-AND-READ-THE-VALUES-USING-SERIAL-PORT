@@ -262,7 +262,8 @@ PUTCHAR_PROTOTYPE
  
 ## Output  :
 
-![WhatsApp Image 2025-11-20 at 10 43 32_f282d495](https://github.com/user-attachments/assets/1562a934-e2aa-4ea3-9840-b8f33ded1eb0)
+![WhatsApp Image 2025-11-20 at 10 32 07_fab2d39e](https://github.com/user-attachments/assets/9d5f481c-aa70-44b6-a034-1e0087534051)
+
 
 <img width="1920" height="1080" alt="Screenshot 2025-11-20 102843" src="https://github.com/user-attachments/assets/9ddeae6a-c4b2-4d61-9738-92d5550b9641" />
 
